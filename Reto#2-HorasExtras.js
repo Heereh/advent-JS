@@ -41,6 +41,12 @@ function countHours(year, holidays) {
   return extraHours;
 }
 
+/* CountHours 2 */
+
+function countHours2(year, holidays) {
+  
+}
+
 console.log(
   countHours(2022, [
     '01/01',
